@@ -1,0 +1,11 @@
+<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="Project1.html">Project 1</a></h2>
+									<p> A responsive Website built with HTML and CSS</p>
+								</header>
+								<a href="Project1.html" class="image main"><img src="images/my website.JPG " alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://github.com/JoeHarding/Website" class="button large">CODE</a></li>
+								</ul>
+							</article>
